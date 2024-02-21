@@ -1,0 +1,12 @@
+sqlalchemy
+torch
+numpy
+pandas
+fastapi
+pydantic
+uvicorn
+emoji
+transformers
+python-multipart
+chardet
+tqdm
